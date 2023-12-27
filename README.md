@@ -2,7 +2,8 @@
 
 ![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
-[Visite o Site do Projeto no GitHub Pages](https://rafael-feitosa-santos.github.io/alura-plus/)
+[Visite Projeto no GitHub Pages - Alura Plus](https://rafael-feitosa-santos.github.io/alura-plus)
+
 
 # Linguagens
 <div align="left">
