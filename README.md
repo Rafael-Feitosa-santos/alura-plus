@@ -4,6 +4,8 @@
 
 [Visite Projeto no GitHub Pages - Alura Plus](https://rafael-feitosa-santos.github.io/alura-plus)
 
+[Visite Projeto no Vercel - Alura Plus](https://alura-plus-gamma-amber.vercel.app/)
+
 
 # Linguagens
 <div align="left">
